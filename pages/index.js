@@ -48,7 +48,7 @@ export default function Home() {
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer"/>
 
           {/* Avatar */}
-      <Avatar url="https://lh3.googleusercontent.com/ogw/ADea4I6GBqLmhtdOz2Q6MJwFtKp9ktnYFUpUiy2n8o42Tg=s83-c-mo" />
+      <Avatar url="https://lh3.googleusercontent.com/ogw/ADea4I6GBqLmhtdOz2Q6MJwFtKp9ktnYFUpUiy2n8o42Tg=s83-c-mo"/>
 
         </div>
       </header>
@@ -58,7 +58,8 @@ export default function Home() {
       <form className="flex flex-col items-center mt-44 flex-grow w-4/5">
         <Image src="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
         height={100}
-        width={300}/>
+        width={300}
+        alt="profilepic"/>
 
         <div className="flex w-full mt-5 hover:shadow-lg focus-within:shadow-lg max-w-md rounded-full border border-gray-200 px-5 py-3 items-center sm:max-w-xl lg:max-w-2xl">
           <SearchIcon className="h-5 mr-3 text-gray-500"/>
