@@ -1,0 +1,7 @@
+// API KEY = AIzaSyAStQnR62XhVlvCcaHVf9CN7yY8WYjYlnA
+
+export const API_KEY = 'AIzaSyAStQnR62XhVlvCcaHVf9CN7yY8WYjYlnA'
+
+// CONTEXT KEY
+
+export const CONTEXT_KEY = 'f513051e90f77496a'
